@@ -1,0 +1,7 @@
+body {
+      margin: 0;
+      background:url(../images/bground.jpg) no-repeat 0px 0px;
+      background-size:cover;
+      background-position: 50% 50%;
+      background-attachment:fixed;
+}
